@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tmpaero
+- 👀 I’m interested in Open Source Project
+- 🌱 I’m currently learning Python
